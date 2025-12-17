@@ -1,0 +1,5 @@
+{
+  "name": "ChromiumOS Cyan Builder",
+  "description": "Interactive documentation and AI assistant for building Chromium OS for the Acer Chromebook R11 (Cyan).",
+  "requestFramePermissions": []
+}
